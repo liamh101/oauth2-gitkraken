@@ -81,7 +81,7 @@ class GitKraken extends AbstractProvider
      */
     protected function checkResponse(\Psr\Http\Message\ResponseInterface $response, $data)
     {
-        if
+
     }
 
     /**
