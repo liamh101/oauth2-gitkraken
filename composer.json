@@ -1,0 +1,14 @@
+{
+    "name": "liamh/oauth2-gitkraken",
+    "description": "Oauth2 client for gitkrakens API",
+    "license": "MIT Licence",
+    "authors": [
+        {
+            "name": "Liam Hackett",
+            "email": "liamjhackett@gmail.com"
+        }
+    ],
+    "require": {
+        "league/oauth2-client": "^2.4"
+    }
+}
