@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Liamh\\Oauth2\\Client\\": "provider/"
+            "Liamh\\Oauth2\\Client\\": "src/"
         }
     }
 }
